@@ -8,22 +8,16 @@ A fully functional **Recipe Web Application** built using React, focused on real
 
  **CRUD Operations**
   Create, Read, Update, and Delete recipes easily
-
  **Context API**
   Efficient global state management
-
  **Routing**
   Smooth navigation across multiple pages
-
  **Toast Notifications**
   Better user experience with instant feedback
-
  **Contact Form (Web3Forms)**
   Integrated contact functionality
-
  **Like Feature**
   Users can like their favorite recipes
-
  **Authentication**
   Login & Logout functionality using LocalStorage
 
@@ -76,7 +70,7 @@ https://recipes-website-s2hm.vercel.app/
 
 ## 📂 GitHub Repository
 
-(Add your GitHub repo link here)
+https://github.com/chetnaambe/Recipes-Website
 
 ---
 
