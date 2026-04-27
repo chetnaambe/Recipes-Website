@@ -1,4 +1,3 @@
-// 
 
 import { useState } from "react";
 import { useForm } from "react-hook-form";
@@ -26,7 +25,7 @@ const Contact = () => {
     setLoading(false);
 
     if (result.success) {
-      toast.success("Message sent successfully ✅");
+      toast.success("Message sent successfully");
 
       // 🔥 SAVE FEEDBACK IN LOCALSTORAGE
       const oldFeedback = JSON.parse(localStorage.getItem("feedback")) || [];
